@@ -8,3 +8,6 @@ Written to practice algorithm design.
 
 - **selectionSort** - sorts an array using selection sort.
   ``selectionSort([2, 3, 5, 6, 1, 4])``
+
+- **mergeSort** - sorts an array using merge sort.
+  ``mergeSort([3, 2, 6, 1, 5, 1, 9, 4, 6, 8, 7, 9], 0, 11);``
