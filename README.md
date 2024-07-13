@@ -11,3 +11,6 @@ Written to practice algorithm design.
 
 - **mergeSort** - sorts an array using merge sort.
   ``mergeSort([3, 2, 6, 1, 5, 1, 9, 4, 6, 8, 7, 9], 0, 11);``
+
+- **maximumSubArrayProblem** - finds the maximum profit sub array.
+  ``findMaximumSubArray([3, -5, -6, 7, -11, 16, -10, 5, -18], 0, 8);``
