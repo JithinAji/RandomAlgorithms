@@ -53,6 +53,8 @@ function findMaximumSubArray(array, low, high) {
   } else {
     return crossData;
   }
-}
+} 
 
-// console.log(findMaximumSubArray([3, -5, -6, 7, -11, 16, -10, 5, -18], 0, 8));
+module.exports = findMaximumSubArray;
+
+//console.log(findMaximumSubArray([3, -5, -6, 7, -11, 16, -10, 5, -18], 0, 8));
